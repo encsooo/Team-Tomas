@@ -13,5 +13,5 @@ console.log(middleSpaceQuestion); //        one end        the other end        
 console.log(middleSpaceQuestion.trim()); // one end        the other end/<== end of string
 
 // ? what if i dont use a variable?
-// it will still work, put thos trouble to rest
-console.log("    holy crap no variable name     ".trim()); // holy crap no variable name
+// it will still work, put those trouble to rest
+console.log("    holy crap no variable name     ".trim()); // holy crap no variable name/<== end of string
